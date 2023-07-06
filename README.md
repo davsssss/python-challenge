@@ -1,2 +1,6 @@
 # python-challenge
-real-world Python practice
+Module 3 Homework assignment
+includes two assignments with resources and analysis:
+  -PyBank
+  -PyPoll
+  
