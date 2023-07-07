@@ -2,8 +2,8 @@ import os
 import csv
 
 #set local path
-dataset = os.path.join(r'C:\Users\bando\python-challenge\PyPoll\Resources\election_data.csv')
-output_file = r"C:\Users\bando\python-challenge\PyPoll\Analysis\pollanalysis.txt"
+dataset = os.path.join(r'..\election_data.csv')
+output_file = r"C:..\pollanalysis.txt"
 #dictionary for candidate votes
 candidatevotes = {}
 #opens and reads csv file 
