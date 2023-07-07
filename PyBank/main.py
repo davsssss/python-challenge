@@ -2,8 +2,8 @@ import os
 import csv
 
 #set local path
-dataset = os.path.join(r'C:\Users\bando\python-challenge\PyBank\Resources\budget_data.csv')
-output_file = r"C:\Users\bando\python-challenge\PyBank\Analysis\bankanalysis.txt"
+dataset = os.path.join(r'..\budget_data.csv')
+output_file = r"C:..\bankanalysis.txt"
 
 num_months = []
 currency = []
